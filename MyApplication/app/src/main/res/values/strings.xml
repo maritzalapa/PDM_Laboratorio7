@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="dni">dni</string>
+    <string name="nombre_apellido">nombre y apellido</string>
+    <string name="nombre_colegio">nombre del colegio</string>
+    <string name="numero_mesa">numero de mesa</string>
+    <string name="alta">Alta</string>
+    <string name="baja">BAja</string>
+    <string name="cons">Cons</string>
+    <string name="modif">Modif</string>
+    <string name="inici">Inici</string>
+    <string name="ant">Ant</string>
+    <string name="sig">Sig</string>
+    <string name="fin">Fin</string>
+    <string name="reset_infor">Reset Info</string>
+</resources>

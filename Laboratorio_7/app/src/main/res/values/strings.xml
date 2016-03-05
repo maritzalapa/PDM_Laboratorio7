@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Androidexamples26menus</string>
+    <string name="hello_text">Hello World, MenusActivity!</string>
+    <string name="show_preferences">Show Preferences</string>
+    <string name="change_preferences">Change Preferences</string>
+    <string name="preferences">Preferences</string>
+</resources>
